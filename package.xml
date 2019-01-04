@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>distance_transform</name>
+  <version>0.0.0</version>
+  <description>
+    The distance_transform library in a ROS package, originally from:
+    https://github.com/giorgiomarcias/distance_transform
+  </description>
+
+  <maintainer email="kazu.otani@shield.ai">Kazu Otani</maintainer>
+  <license>Apache 2.0</license>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
