@@ -1,0 +1,3 @@
+[submodule "extern/DopeVector"]
+	path = extern/DopeVector
+	url = git@github.com:shield-ai/DopeVector.git
